@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MOS6526" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "6526" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MOS6526" (at 10.16 49.53 0)
+    (property "Value" "6526" (at 7.62 49.53 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (at 0 10.16 0)
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "Package_DIP:DIP-40_W15.24mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MOS6526_0_1"
+    (symbol "6526_0_1"
       (rectangle (start -7.62 48.26) (end 7.62 -48.26)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "MOS6526_1_1"
+    (symbol "6526_1_1"
       (pin power_in line (at 0 -50.8 90) (length 2.54)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
