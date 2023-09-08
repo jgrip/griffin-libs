@@ -20,7 +20,7 @@
     )
     (symbol "6502_0_1"
       (rectangle (start -6.35 38.1) (end 8.89 -41.91)
-        (stroke (width 0.254) (type default))
+        (stroke (width 0.254) (type solid))
         (fill (type background))
       )
     )
